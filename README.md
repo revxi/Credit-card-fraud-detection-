@@ -39,6 +39,5 @@ This project uses machine learning techniques to detect fraudulent credit card t
 
 ---
 
-## 🙌 Author
-Built with ❤️ by [Your Name]  
-📧 [your.email@example.com] | [LinkedIn](#) | [GitHub](#)
+## 🙌 Author Diksha Singh
+
